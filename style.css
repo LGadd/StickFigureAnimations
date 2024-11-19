@@ -1,0 +1,11 @@
+body { background-color: lightblue;}
+.white-text{color:white;}
+.center-text{text-align: center;}
+.center-image {text-align: center;}
+.center-image img {display: inline-block;}
+.image-border img 
+{
+    border: 5px solid #6600ff; /* Black border with 5px width */
+    border-radius: 10px; /* Rounded corners */
+}
+.text-font{font-family:fantasy;}
